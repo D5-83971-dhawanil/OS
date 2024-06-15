@@ -1,0 +1,7 @@
+Command 'err' not found, did you mean:
+  command 'erl' from snap erlang (25.3)
+  command 'rr' from deb rr (5.5.0-1build1)
+  command 'erb' from deb ruby (1:3.0~exp1)
+  command 'erl' from deb erlang-base (1:24.2.1+dfsg-1ubuntu0.1)
+  command 'etr' from deb extremetuxracer (0.8.1-1)
+See 'snap info <snapname>' for additional versions.
